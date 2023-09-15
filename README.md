@@ -23,10 +23,8 @@ $ git clone https://github.com/dhanarajappu456/Note_Taking_App.git
 # Navigate to the project directory
 $ cd Note_Taking_App
 
-
-
-# Run the app 
-$ node app.js
+# Starts the server at port : 3000
+$ npm start
 ```
 
 
